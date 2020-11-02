@@ -1,7 +1,6 @@
 ### Hi there 👋
 ####  Welcome to Tobi's Github Page
 
-[![Tobi's github stats](https://github-readme-stats.vercel.app/api?username=oluwatobi1&show_icons&theme=highcontrast)](https://github.com/oluwatobi1/github-readme-stats)
 ![Tobi's github stats](https://github-readme-stats.vercel.app/api?username=oluwatobi1&theme=dark&show_icons=true)
 <!--
 **oluwatobi1/oluwatobi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
