@@ -6,8 +6,7 @@
 - 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
 
 
-- ⚡ Fun fact: 
-* A baby spider is called a spiderling.
+- ⚡ Fun fact: <h5> A baby spider is called a spiderling.</h5
                       
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
