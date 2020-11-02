@@ -1,6 +1,12 @@
 ### Hi there 👋
 ####  Welcome to Tobi's Github Page
 
+- 🌱 I’m currently learning all things "software"
+- 🔭 I’m currently working on Web (Backend) and Data (ML) 
+- 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
+- ⚡ Fun fact: * A baby spider is called a spiderling.
+                      
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwatobi1&theme=midnight-purple&show_icons=true" />
 </a>
