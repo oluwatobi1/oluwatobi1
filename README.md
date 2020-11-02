@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning all things "software"
 - 🔭 I’m currently working on Web (Backend) and Data (ML) 
 - 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
-- ⚡ Fun fact: * A baby spider is called a spiderling.
+
+
+- ⚡ Fun fact: 
+* A baby spider is called a spiderling.
                       
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
