@@ -1,8 +1,9 @@
 ### Hi there 👋
 ####  Welcome to Tobi's Github Page
 
-- 🌱 I’m currently learning Artificial Intelligence
-- 🔭 I’m currently working on Web development (Backend) and Data Science (ML) 
+
+- 🔭 I’m currently working on building high quality software.
+- 🌱 I’m currently learning Artificial Intelligence and Cloud Technologies
 - 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
 
 
