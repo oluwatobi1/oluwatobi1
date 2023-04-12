@@ -2,7 +2,7 @@
 ####  Welcome to Tobi's Github Page
 
 
-- 🔭 I’m currently working on building high quality software.
+- 🔭 I’m currently working on building high quality softwares.
 - 🌱 I’m currently learning Artificial Intelligence and Cloud Technologies
 - 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
 
