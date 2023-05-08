@@ -13,6 +13,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwatobi1&theme=midnight-purple&show_icons=true" />
 </a>
+![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobi1&show_icons=true)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobi1&layout=compact&langs_count=8" />
 </a>
