@@ -10,7 +10,8 @@
 <h5> ⚡ Fun fact: A baby spider is called a spiderling. </h5>
                       
 
-[![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobi1&Show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobi1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobi1&Show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobi1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
