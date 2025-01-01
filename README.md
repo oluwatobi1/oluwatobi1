@@ -1,12 +1,10 @@
 ### Hi there 👋
 ####  Welcome to Tobi's Github Page
-
-
-- 🔭 I’m currently working on building high quality softwares.
-- 🛠️ **Core Competencies:** Backend Development | Cloud Engineering | Distributed Systems | API Design | Database Optimization | DevOps Automation.
+- 🔭 I’m currently building scalable and high-quality software solutions.
 - 📜 **Certified Expertise:**
   - GCP: Professional Cloud DevOps Engineer [2024](https://www.credly.com/badges/f42c0614-e39f-4e89-a7f1-8b6bb2ef133d/linked_in?t=seghvt)
   - Azure: DP203 - Microsoft Azure Data Engineer Associate.
+- 🛠️ **Core Competencies:** Backend Development | Full-Stack Development | Cloud Engineering | Distributed Systems | API Design | Database Optimization | DevOps Automation.
 - 🌱 **What I'm Exploring:** Advanced Cloud Technologies, Web3, and AI-driven Software Engineering.
 - 👯 Open to collaborating on impactful projects that push the boundaries of technology.
 - 📫 How to reach me:  📲[Linkedin!](https://www.linkedin.com/in/akintunlese-oluwatobi/)
